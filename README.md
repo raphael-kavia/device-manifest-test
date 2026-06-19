@@ -1,0 +1,2 @@
+# device-manifest-test
+Test
