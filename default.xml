@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+  <default remote="github" revision="master" sync-j="1" />
+  <project name="octocat/Hello-World" path="hello-world" />
+</manifest>
